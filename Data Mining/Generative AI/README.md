@@ -1,6 +1,6 @@
 # Exploring Generative AI
 
-This repository contains the assignment work for assignment 1: Exploring Generative AI. The `workspace` directory contains all the output generated from gpt-engineer. The screencast is in `Assignment 2 Screencast.7z` (had to compress it because of github file upload size restriction).
+This repository contains the assignment work for assignment 1: Exploring Generative AI. The `workspace` directory contains all the output generated from gpt-engineer. The screencast is in `Screencast.7z` (had to compress it because of github file upload size restriction).
 
 ## About the project
 
