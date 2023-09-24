@@ -24,5 +24,3 @@ An in-depth exploration of an HR dataset using the SEMMA (Sample, Explore, Modif
 
 ## Submissions
 [Medium Article](https://medium.com/@kulkarniaditya1997/hr-analytics-a-comprehensive-data-science-approach-428b7b6e0f45)
-
-[Arxiv](https://arxiv.org/submit/5124131/view)
