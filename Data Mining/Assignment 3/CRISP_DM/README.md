@@ -16,5 +16,3 @@ Analysis of Tesla's stock market data utilizing the CRISP-DM methodology.
 
 ## Submissions
 [Medium Article](https://medium.com/@kulkarniaditya1997/predicting-teslas-stock-price-a-journey-through-the-crisp-dm-methodology-36e71d8b16e3)
-
-[Arxiv](https://arxiv.org/submit/5124093/view)
