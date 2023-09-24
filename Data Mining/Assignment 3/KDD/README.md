@@ -19,5 +19,3 @@ Analysis of UPI transactions for 2021 using the Knowledge Discovery in Databases
 
 ## Submissions
 [Medium Article](https://medium.com/@kulkarniaditya1997/unraveling-upi-transactions-of-2021-a-dive-into-data-with-kdd-ee0f66070c03)
-
-[Arxiv](https://arxiv.org/submit/5124148/view)
