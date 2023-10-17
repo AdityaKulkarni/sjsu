@@ -9,6 +9,7 @@ This application makes use of the [Socket.io](https://www.npmjs.com/package/sock
 The V of this application is the ```chat.js``` component in the react app. The M_C resides on the nodejs backend. I have opted to put the M_C on the nodejs backend because this way, the react app doesnt need to worry about the type of object it's receiving. The backend will send appropriate object and react app will display it.
 
 ### Getting started
+Make sure you have NodeJS installed. If not, you can download it from [here](https://nodejs.org/en/download).
 Clone the repository
 
 ```shell
