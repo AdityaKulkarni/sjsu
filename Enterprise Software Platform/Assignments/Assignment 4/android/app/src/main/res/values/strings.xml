@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat Frontend 2</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter">Enter</string>
+    <string name="cmpe_272">CMPE 272</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="failed_to_connect">Failed to connect</string>
+</resources>

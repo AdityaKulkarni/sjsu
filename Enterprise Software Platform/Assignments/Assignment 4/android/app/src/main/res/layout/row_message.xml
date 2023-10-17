@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/s16sp"
+        android:textColor="@android:color/darker_gray"
+        tools:text="Aditya Connected"
+        android:padding="@dimen/d16dp"
+        android:gravity="start"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/tv_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/s16sp"
+        tools:text="Aditya Connected"
+        android:paddingStart="@dimen/d32dp"
+        android:paddingVertical="@dimen/d8dp"
+        android:paddingEnd="@dimen/d8dp"
+        android:gravity="start"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/tv_name"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
