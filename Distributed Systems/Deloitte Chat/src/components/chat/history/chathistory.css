@@ -1,0 +1,19 @@
+.chat-history-container{
+    @apply flex flex-col w-[20%] items-start bg-purple-100 p-4;
+}
+
+.chat-list{
+    @apply my-2 w-full;
+}
+
+.chat-list-item{
+    @apply flex flex-row justify-between items-center bg-purple-700 flex-1 p-2 my-2 rounded-md text-white font-semibold cursor-pointer;
+}
+
+.delete-button{
+    @apply h-6 w-6
+}
+
+.new-chat-button{
+    @apply h-12 w-full bg-purple-400 hover:bg-purple-600 text-white rounded-md;
+}
